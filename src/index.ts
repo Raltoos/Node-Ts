@@ -1,0 +1,1 @@
+console.log("Your node backend with typescript is ready!");
